@@ -27,7 +27,7 @@ Npm is the package manager for Node. The package manager is responsible for host
 
 ## Getting Started
 
-We will Start developing in the [Start](./Start) directory and after this module we will be left with what can be found in the [Finished])(./Finished) directory.
+We will Start developing in the [Start](./Start) directory and after this module we will be left with what can be found in the [Finished](./Finished) directory.
 
 ### Generating a blank Express Application
 
